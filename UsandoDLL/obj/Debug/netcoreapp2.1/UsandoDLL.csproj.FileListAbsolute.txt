@@ -1,0 +1,14 @@
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\bin\Debug\netcoreapp2.1\UsandoDLL.deps.json
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\bin\Debug\netcoreapp2.1\UsandoDLL.runtimeconfig.json
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\bin\Debug\netcoreapp2.1\UsandoDLL.runtimeconfig.dev.json
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\bin\Debug\netcoreapp2.1\UsandoDLL.dll
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\bin\Debug\netcoreapp2.1\UsandoDLL.pdb
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\bin\Debug\netcoreapp2.1\FileIOLibrary.dll
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\bin\Debug\netcoreapp2.1\FileIOLibrary.pdb
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\obj\Debug\netcoreapp2.1\UsandoDLL.csprojAssemblyReference.cache
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\obj\Debug\netcoreapp2.1\UsandoDLL.csproj.CoreCompileInputs.cache
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\obj\Debug\netcoreapp2.1\UsandoDLL.AssemblyInfoInputs.cache
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\obj\Debug\netcoreapp2.1\UsandoDLL.AssemblyInfo.cs
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\obj\Debug\netcoreapp2.1\UsandoDLL.csproj.CopyComplete
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\obj\Debug\netcoreapp2.1\UsandoDLL.dll
+C:\Users\reboucaJ\Source\repos\class-libray\UsandoDLL\obj\Debug\netcoreapp2.1\UsandoDLL.pdb

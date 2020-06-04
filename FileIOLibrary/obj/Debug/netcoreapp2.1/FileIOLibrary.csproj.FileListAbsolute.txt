@@ -1,0 +1,9 @@
+C:\Users\reboucaJ\Source\repos\class-libray\FileIOLibrary\bin\Debug\netcoreapp2.1\FileIOLibrary.deps.json
+C:\Users\reboucaJ\Source\repos\class-libray\FileIOLibrary\bin\Debug\netcoreapp2.1\FileIOLibrary.dll
+C:\Users\reboucaJ\Source\repos\class-libray\FileIOLibrary\bin\Debug\netcoreapp2.1\FileIOLibrary.pdb
+C:\Users\reboucaJ\Source\repos\class-libray\FileIOLibrary\obj\Debug\netcoreapp2.1\FileIOLibrary.csprojAssemblyReference.cache
+C:\Users\reboucaJ\Source\repos\class-libray\FileIOLibrary\obj\Debug\netcoreapp2.1\FileIOLibrary.csproj.CoreCompileInputs.cache
+C:\Users\reboucaJ\Source\repos\class-libray\FileIOLibrary\obj\Debug\netcoreapp2.1\FileIOLibrary.AssemblyInfoInputs.cache
+C:\Users\reboucaJ\Source\repos\class-libray\FileIOLibrary\obj\Debug\netcoreapp2.1\FileIOLibrary.AssemblyInfo.cs
+C:\Users\reboucaJ\Source\repos\class-libray\FileIOLibrary\obj\Debug\netcoreapp2.1\FileIOLibrary.dll
+C:\Users\reboucaJ\Source\repos\class-libray\FileIOLibrary\obj\Debug\netcoreapp2.1\FileIOLibrary.pdb
